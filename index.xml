@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 11:26:02 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One</title>
+      <link>/posts/one/</link>
+      <pubDate>Fri, 30 Jun 2023 11:26:02 +0800</pubDate>
+      
+      <guid>/posts/one/</guid>
+      <description>
+        
+          
+            在下载过程中解压需要money，下载了一个7-zip得以解决 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
